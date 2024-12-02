@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\bin\Debug\net6.0\ChineseCharExtractor.exe
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\bin\Debug\net6.0\ChineseCharExtractor.deps.json
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\bin\Debug\net6.0\ChineseCharExtractor.runtimeconfig.json
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\bin\Debug\net6.0\ChineseCharExtractor.dll
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\bin\Debug\net6.0\ChineseCharExtractor.pdb
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\obj\Debug\net6.0\ChineseCharExtractor.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\obj\Debug\net6.0\ChineseCharExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\obj\Debug\net6.0\ChineseCharExtractor.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\obj\Debug\net6.0\ChineseCharExtractor.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\obj\Debug\net6.0\ChineseCharExtractor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\obj\Debug\net6.0\ChineseCharExtractor.dll
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\obj\Debug\net6.0\refint\ChineseCharExtractor.dll
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\obj\Debug\net6.0\ChineseCharExtractor.pdb
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\obj\Debug\net6.0\ChineseCharExtractor.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ChineseCharExtractor\ChineseCharExtractor\obj\Debug\net6.0\ref\ChineseCharExtractor.dll
